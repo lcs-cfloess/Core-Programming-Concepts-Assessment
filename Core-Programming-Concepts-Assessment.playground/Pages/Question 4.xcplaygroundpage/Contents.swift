@@ -23,6 +23,14 @@
  
  */
 // Answer question 4 below
+var appsUsedToday = 10
+print("Becaues the number of apps can change over the day and int because you can't ues half a app ")
+var hoursScreenWasOn = 10.5
+print("Becaues the nuberes of hours the screen changes over the day and double because you can use it for a part of an hour")
+var mostUsedAppOfTheDay = "intstagram"
+print("Again it changes over the day and string because its a name ")
+let date = "2.4.2018"
+print("it wont change over the day and string because it is a date")
 
 /*:
  ## Now share your understanding
