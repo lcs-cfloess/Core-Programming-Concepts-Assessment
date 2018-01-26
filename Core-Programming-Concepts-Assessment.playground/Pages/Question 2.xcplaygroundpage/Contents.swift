@@ -24,6 +24,11 @@
  
  */
 // Answer question 2 below
+let bookName = "lala"
+var soldCopies = 100
+let authorName = "t.t.idk"
+var sellingPrice = 15
+let yearPublished = 2018 
 
 /*:
  ## Now share your understanding
